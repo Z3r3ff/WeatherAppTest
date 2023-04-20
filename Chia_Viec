@@ -1,0 +1,26 @@
+1. Tìm kiếm địa điểm + database    // Huy
+2. Dự báo nhiều ngày               // Sơn
+3. Dự báo thời tiết theo giờ       // Tú
+4. Dự báo độ gió, độ ẩm, chất lượng không khí, mặt trời mọc/lặn, khả năng mưa...+ Giao diện chính// Long
+
+
+BT1: Graphic design & Interaction design (Tham gia: Long, Sơn, Tú, Huy)
+
+BT2: Phân tích thiết kế
+- Kiến trúc tổng quan // Long
+- Biểu đồ Usecase tổng quan // Long
+- Usecase chi tiết:
+  + usecase tìm kiếm                     // Long
+  + usecase xem thời tiết theo địa điểm  // Tú
+  + usecase xem thời tiết theo ngày      // Sơn
+  + usecase quản lý thành phố            // Huy
+- Biểu đồ lớp (Class Diagram) // Huy
+- Biểu đồ tuần tự (Sequence Diagram) // Tú
+- Sơ đồ thực thể (ER) // Sơn
+
+Drive: https://drive.google.com/drive/u/0/folders/1jjgUPn9Z2bBLiRvoqIHAxdpELjFhqWxX
+
+
+BT3
+
+
